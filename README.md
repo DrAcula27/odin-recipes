@@ -1,9 +1,9 @@
 # odin-recipes
-The Odin Project - Foundations - HTML Foundations - Basic Recipe Website
+<strong>The Odin Project - Foundations - HTML Foundations - Basic Recipe Website</strong>
 
 The goal of this project is to build on and cement my HTML skills and knowledge that I have gained while working through The Odin Project.
 I will be building a simple recipe website that will have an index page that will contain links to a few recipes.
-<!-->
+
 <strong>After completing this project, I have accomplished:</strong>
 
     Properly setting up and organizing HTML files
@@ -15,5 +15,5 @@ I will be building a simple recipe website that will have an index page that wil
     used body and paragraph elements to describe what the recipe is all about
     Linked a CSS stylesheet to the HTML files
     Properly implemented various types of CSS selectors and inheritance, keeping in mind of specificity rules.
--->
-Project Source: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
+
+<strong>Project Source:</strong> https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
