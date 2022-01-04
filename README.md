@@ -6,14 +6,13 @@
 
 <strong>After completing this project, I have accomplished:</strong>
     <ul>
-    Properly setting up and organizing HTML files
-    Linking HTML files together
-    Input images with alternative text
-    Created ordered and unordered lists for the steps and recipes
-    Added in cooking notes by emphasizing them at bottom of the page
-    Added a Home/main page button on recipes sites to go back to starting page
-    used body and paragraph elements to describe what the recipe is all about
-    Linked a CSS stylesheet to the HTML files
-    Properly implemented various types of CSS selectors and inheritance, keeping in mind of specificity rules.
+    <li>Properly setting up and organizing HTML files</li>
+    <li>Linking HTML files together</li>
+    <li>Input images with use of the alternative text attribute</li>
+    <li>Created ordered and unordered lists for the recipe instructions</li>
+    <li>Added in cooking notes using the emphasis tag</li>
+    <li>Added a Home/main page button on recipes sites to return to the index page</li>
+    <li>Used body and paragraph elements to describe the recipe</li>
+    <li>Linked a CSS stylesheet to the HTML files for future work</li>
     </ul>
 <strong>Project Source:</strong> https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
