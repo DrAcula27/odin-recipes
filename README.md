@@ -4,7 +4,7 @@
 <p>The goal of this project is to build on and cement my HTML skills and knowledge that I have gained while working through The Odin Project.</p>
 <p>I will be building a simple recipe website, using only HTML, that will have an index page that will contain links to a few recipes.</p>
 
-<strong>After completing this project, I will have accomplished:</strong>
+<strong>After completing this project, I have accomplished:</strong>
 <ul>
     <li>Version control using Git and GitHub</li>
     <li>Properly setting up and organizing HTML files</li>
