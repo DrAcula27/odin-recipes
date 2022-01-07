@@ -1,0 +1,27 @@
+/*styles shared between all pages*/
+body {
+    background-color: rgb(226, 217, 217);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: goldenrod;
+}
+
+img {
+    height: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*end styles shared between all pages*/
+
+/*styles for index.html*/
+ul.centered-list {
+    text-align: center;
+    font-size: 22px;
+    list-style-type: none;
+}
+/*end styles for index.html*/
