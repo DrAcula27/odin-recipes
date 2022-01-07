@@ -17,3 +17,18 @@
     <li>Linked a JS script to the HTML files for future work</li>
 </ul>
 <strong>Project Source:</strong> https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes
+
+<h1>UPDATE 1</h1>
+<strong>The Odin Project - Foundations - CSS Foundations</strong>
+
+<p>This project is built upon in the next section of the course. The goal is to add basic CSS to the website.</p>
+
+<strong>After completing this update, I have accomplished:</strong>
+<ul>
+    <li>Understanding how the CSS cascade works</li>
+    <li>Adding basic CSS styling (colors, fonts, centering objects) to HTML elements</li>
+    <li>CSS styling best practices</li>
+    <li>Fixing CSS conflicts</li>
+    <li>Styling elements using the correct selectors and combinations of selectors</li>
+    <li>Understanding how to use class and ID attributes</li>
+</ul>
