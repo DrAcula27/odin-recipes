@@ -32,3 +32,8 @@
     <li>Styling elements using the correct selectors and combinations of selectors</li>
     <li>Understanding how to use class and ID attributes</li>
 </ul>
+
+<h1>UPDATE 2</h1>
+<strong>The Odin Project - Foundations - Flexbox</strong>
+
+<p>After going through the Flexbox foundation, I have started adding CSS Flexbox functionality to the pages.</p>
